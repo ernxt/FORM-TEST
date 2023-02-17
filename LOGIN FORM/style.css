@@ -1,0 +1,70 @@
+h2{
+    text-align: center;
+color: white;
+}
+
+form{
+    text-align: center;
+}
+
+input{
+    width: 350px; height: 30px;
+}
+
+.kay{
+    background-color: royalblue;
+width: 350px; height: 30px;
+border: none;
+color: white;
+}
+
+.sap{
+    color:black;
+}
+
+.wg{
+    color: blue;
+}
+.ew{
+    background-color: blue;
+border: none;
+width: 150px; height: 30px;
+}
+.we{
+    color: white;
+}
+
+.re{
+    background-color: magenta;
+    border: none;
+    width: 150px; height: 30px;
+}
+
+.qw{
+    color: white;
+}
+i{
+    color: white;
+    size: 150px;
+}
+
+.input-field{
+    width: 350px; height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
